@@ -1,8 +1,8 @@
 # edupage-homework-to-calendar
 
 ---
-##Add EduPage homeworks to your google calendar
-###Usage:
+## Add EduPage homeworks to your google calendar
+### Usage:
 1. clone the repo
 2. npm i
 3. create .env and add these fields
