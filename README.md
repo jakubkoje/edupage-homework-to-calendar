@@ -5,8 +5,7 @@
 ### Usage:
 1. clone the repo
 2. npm i
-3. generate credentials.json and add it to public folder
-4. Create new google calendar
+3. generate credentials.json and add it to public folder and create new calendar ( Tutorial 0:50 - 6:50: https://www.youtube.com/watch?v=dFaV95gS_0M)
 5. create .env and add these fields
    - EDUPAGE_NAME=
    - EDUPAGE_PASSWORD=
