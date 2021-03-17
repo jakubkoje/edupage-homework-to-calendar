@@ -63,7 +63,7 @@ import { DateTime } from 'luxon';
             return;
           calendar.events.insert(
             {
-              calendarId: 's8dae0rhqdg4tfil31see7unc4@group.calendar.google.com',
+              calendarId: process.env.EDUPAGE_CALENDAR_ID,
               requestBody: {
                 summary: hw.subject_name + ' ' + hw.title,
                 description: hw.description,
